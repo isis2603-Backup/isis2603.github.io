@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/co.edu.uniandes.csw.crudmaker_1.0.0.201408052344.jar" id="co.edu.uniandes.csw.crudmaker" version="1.0.0.201408052344"/>
+   <feature url="features/co.edu.uniandes.csw.crudmaker_1.0.0.201408052359.jar" id="co.edu.uniandes.csw.crudmaker" version="1.0.0.201408052359">
+      <category name="CrudMaker"/>
+   </feature>
+   <category-def name="CrudMaker" label="CrudMaker"/>
 </site>
